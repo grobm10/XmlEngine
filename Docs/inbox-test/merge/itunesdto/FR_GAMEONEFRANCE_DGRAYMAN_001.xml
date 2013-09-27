@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="tv4.0">
+  <provider>Viacom</provider>
+  <language>fr-FR</language>
+  <video>
+    <type>tv</type>
+    <container_id>FR_GAMEONEFRANCE_DGRAYMAN_SEASON_01</container_id>
+    <container_position>1</container_position>
+    <vendor_id>FR_GAMEONEFRANCE_DGRAYMAN_001</vendor_id>
+    <episode_production_number>001</episode_production_number>
+    <original_spoken_locale>ja-JA</original_spoken_locale>
+    <title>Le Jeune Chasseur d'Akumas</title>
+    <description>Allen Walker et son golem, Timcanpy, viennent d’arriver à Londres afin de se rendre aux quartiers généraux de l’Ordre de l’Ombre. Dans le même temps, les officiers Moa et Charles mènent l’enquête sur une supposée Eglise hantée…</description>
+    <network_name>Game One France</network_name>
+    <release_date>2008-09-01</release_date>
+    <copyright_cline>2006 © KATSURA HOSHINO/SHUEISHA, TV TOKYO, DENTSU, TMS</copyright_cline>
+    <assets>
+      <asset type="full">
+        <data_file>
+          <locale name="fr-FR"/>
+          <file_name>FR_GAMEONEFRANCE_DGRAYMAN_001.mpg</file_name>
+          <size></size>
+          <checksum type="md5"></checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <preview starttime="15.0"/>
+    <products>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-06-20</sales_start_date>
+      </product>
+    </products>
+  </video>
+</package>

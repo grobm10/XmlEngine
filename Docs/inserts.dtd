@@ -1,0 +1,13 @@
+<!--
+   Projects folder structure DTD
+
+   $Revision: 0.1 $
+   $Date: 2012/06/01 12:00:00 $
+-->
+
+<!ELEMENT inserts (entries*)>
+	<!ELEMENT entries (entry*)>
+	<!ATTLIST entries table CDATA #REQUIRED>
+		<!ELEMENT entry (field+)>
+			<!ELEMENT field (#PCDATA)>
+			<!ATTLIST field name CDATA #REQUIRED>

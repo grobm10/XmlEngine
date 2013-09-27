@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/24846">
+   <metadata>
+    <mdValue fieldName="Size" dataType="int64">2913246206</mdValue>
+    <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+    <mdValue fieldName="DTO Series Description" dataType="string"></mdValue>
+    <mdValue fieldName="File Name" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101.mpg</mdValue>
+    <mdValue fieldName="Air Date" dataType="string">2011-02-14</mdValue>
+    <mdValue fieldName="Release Year" dataType="string">2011-02-14</mdValue>
+    <mdValue fieldName="Copyright Holder" dataType="string">2010 MTV Networks. All rights reserved.</mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 14:15:15+0</mdValue>
+    <mdValue fieldName="Store and track versions of this asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Season Description" dataType="string"></mdValue>
+    <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 08:51:16+0</mdValue>
+    <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+    <mdValue fieldName="DTO Season ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_SEASON_001_SEASON</mdValue>
+    <mdValue fieldName="Country" dataType="string">DE</mdValue>
+    <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+    <mdValue fieldName="Season Language" dataType="string">DE</mdValue>
+    <mdValue fieldName="DTO Short Episode Description" dataType="string">Durch eine Verkettung unglücklicher Umstände verlieren die Pinguine den Zugang zu ihrer Lieblingsspeise: Popcorn! Natürlich scheuen Skipper und seine Truppe weder Kosten noch Mühen, um sich den schmackhaften Snack wieder zu beschaffen... / Lemur Maurice hat genug davon, ständig von seinem gierigen Boss, &quot;König&quot; Julien, bestohlen zu werden. Als die Lemuren von einem Touristen mit dem Blitzlicht seiner Kamera geblendet werden, nutzt Maurice kurz entschlossen die Gelegenheit und macht sich aus dem Staub. Der etwas naive Julien ist sogleich davon überzeug, dass Maurice in der &quot;magischen Kiste&quot; - also der Kamera - gefangen sitzt. Die Pinguine wissen es natürlich besser und beschließen, den ausgebüxten Lemuren zurück in den Zoo zu holen. Doch New York City ist groß - und so müssen die Pinguine ihr gesamtes detektivisches Talent aufbieten, um Maurice auf die Spur zu kommen...</mdValue>
+    <mdValue fieldName="DTO Epsiode ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</mdValue>
+    <mdValue fieldName="Force DTO export XML" dataType="bool">true</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+    <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+    <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">24846</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+    <mdValue fieldName="DTO Country Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Keywords" dataType="string">mpg nick penguins DE</mdValue>
+    <mdValue fieldName="DTO Long Episode Description" dataType="string">Durch eine Verkettung unglücklicher Umstände verlieren die Pinguine den Zugang zu ihrer Lieblingsspeise: Popcorn! Natürlich scheuen Skipper und seine Truppe weder Kosten noch Mühen, um sich den schmackhaften Snack wieder zu beschaffen... / Lemur Maurice hat genug davon, ständig von seinem gierigen Boss, &quot;König&quot; Julien, bestohlen zu werden. Als die Lemuren von einem Touristen mit dem Blitzlicht seiner Kamera geblendet werden, nutzt Maurice kurz entschlossen die Gelegenheit und macht sich aus dem Staub. Der etwas naive Julien ist sogleich davon überzeug, dass Maurice in der &quot;magischen Kiste&quot; - also der Kamera - gefangen sitzt. Die Pinguine wissen es natürlich besser und beschließen, den ausgebüxten Lemuren zurück in den Zoo zu holen. Doch New York City ist groß - und so müssen die Pinguine ihr gesamtes detektivisches Talent aufbieten, um Maurice auf die Spur zu kommen...</mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-09-27 17:53:17+0</mdValue>
+    <mdValue fieldName="Season Number" dataType="string"></mdValue>
+    <mdValue fieldName="DTO Series ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_SEASON_001</mdValue>
+    <mdValue fieldName="DTO Genre" dataType="string">Kinder</mdValue>
+    <mdValue fieldName="License Start Date" dataType="string">2011-02-14</mdValue>
+    <mdValue fieldName="Owner" dataType="string"></mdValue>
+    <mdValue fieldName="Title" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</mdValue>
+    <mdValue fieldName="Rating System" dataType="string">de-tv/ab 6 Jahren</mdValue>
+    <mdValue fieldName="DTO Release Date" dataType="string">2011-02-14</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 08:51:16+0</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-09-27 17:53:17+0</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>

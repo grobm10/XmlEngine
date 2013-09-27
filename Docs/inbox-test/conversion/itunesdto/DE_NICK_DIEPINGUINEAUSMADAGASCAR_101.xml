@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalCutServer>
+  <getMdReply>
+    <entity entityType="asset" entityId="/asset/24846">
+      <metadata>
+        <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+        <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+        <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 14:15:15</mdValue>
+        <mdValue fieldName="DTO Video Type" dataType="string">tv</mdValue>
+        <mdValue fieldName="Duration" dataType="timecode"></mdValue>
+        <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 08:51:16</mdValue>
+        <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 08:51:16</mdValue>
+        <mdValue fieldName="File Name" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101.mpg</mdValue>
+        <mdValue fieldName="Image Size" dataType="coords"></mdValue>
+        <mdValue fieldName="Last Accessed" dataType="dateTime">2011-09-27 17:53:17</mdValue>
+        <mdValue fieldName="Last Modified" dataType="dateTime">2011-09-27 17:53:17</mdValue>
+        <mdValue fieldName="MD5Hash" dataType="string">f8ea9c4e9c9ce232451d75bb4af81260</mdValue>
+        <mdValue fieldName="MD5Hash_Recal" dataType="bool"></mdValue>
+        <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+        <mdValue fieldName="Size" dataType="int64">5608</mdValue>
+        <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+        <mdValue fieldName="Timecode Offset" dataType="timecode"></mdValue>
+        <mdValue fieldName="Video Bit-rate" dataType="float"></mdValue>
+        <mdValue fieldName="Video Codec" dataType="string"></mdValue>
+        <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+        <mdValue fieldName="Video Frame Rate" dataType="fraction"></mdValue>
+        <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+        <mdValue fieldName="DTO Language Name" dataType="string">DE</mdValue>
+        <mdValue fieldName="DTO Country Code" dataType="string">DE</mdValue>
+        <mdValue fieldName="Country" dataType="string">DE</mdValue>
+        <mdValue fieldName="Air Date" dataType="string">2011-02-14</mdValue>
+        <mdValue fieldName="Archive Status" dataType="string"></mdValue>
+        <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+        <mdValue fieldName="Asset ID" dataType="int64">24846</mdValue>
+        <mdValue fieldName="Author" dataType="string"></mdValue>
+        <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+        <mdValue fieldName="Copyright Holder" dataType="string">2010 MTV Networks. All rights reserved.</mdValue>
+        <mdValue fieldName="Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Asset XML Export (stage1)" dataType="bool"></mdValue>
+        <mdValue fieldName="DTO Container Position" dataType="string">11</mdValue>
+        <mdValue fieldName="DTO Episode ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</mdValue>
+        <mdValue fieldName="DTO Episode Name" dataType="integer"></mdValue>
+        <mdValue fieldName="DTO Genre" dataType="string">Kinder</mdValue>
+        <mdValue fieldName="DTO Long Description" dataType="string">Durch eine Erfindung von Kowalski wird der kleine Mort pl?tzlich superstark und gro?. Das nutzt King Julien nat?rlich f?r seine Zwecke aus und erpresst alle Zoobewohner auf die Herausgabe ihres Futters. </mdValue>
+        <mdValue fieldName="DTO Long Episode Description" dataType="string">Durch eine Verkettung ungl?cklicher Umst?nde verlieren die Pinguine den Zugang zu ihrer Lieblingsspeise: Popcorn! Nat?rlich scheuen Skipper und seine Truppe weder Kosten noch M?hen, um sich den schmackhaften Snack wieder zu beschaffen... / Lemur Maurice hat genug davon, st?ndig von seinem gierigen Boss, &amp;quot;K?nig&amp;quot; Julien, bestohlen zu werden. Als die Lemuren von einem Touristen mit dem Blitzlicht seiner Kamera geblendet werden, nutzt Maurice kurz entschlossen die Gelegenheit und macht sich aus dem Staub. Der etwas naive Julien ist sogleich davon ?berzeug, dass Maurice in der &amp;quot;magischen Kiste&amp;quot; - also der Kamera - gefangen sitzt. Die Pinguine wissen es nat?rlich besser und beschlie?en, den ausgeb?xten Lemuren zur?ck in den Zoo zu holen. Doch New York City ist gro? - und so m?ssen die Pinguine ihr gesamtes detektivisches Talent aufbieten, um Maurice auf die Spur zu kommen...</mdValue>
+        <mdValue fieldName="DTO Ratings" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Release Date" dataType="string">2011-02-14</mdValue>
+        <mdValue fieldName="DTO Sales Price" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Season ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_SEASON_001_SEASON</mdValue>
+        <mdValue fieldName="DTO Season Name" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Series Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Series ID" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_SEASON_001</mdValue>
+        <mdValue fieldName="DTO Short Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Short Episode Description" dataType="string">Durch eine Verkettung ungl?cklicher Umst?nde verlieren die Pinguine den Zugang zu ihrer Lieblingsspeise: Popcorn! Nat?rlich scheuen Skipper und seine Truppe weder Kosten noch M?hen, um sich den schmackhaften Snack wieder zu beschaffen... / Lemur Maurice hat genug davon, st?ndig von seinem gierigen Boss, &amp;quot;K?nig&amp;quot; Julien, bestohlen zu werden. Als die Lemuren von einem Touristen mit dem Blitzlicht seiner Kamera geblendet werden, nutzt Maurice kurz entschlossen die Gelegenheit und macht sich aus dem Staub. Der etwas naive Julien ist sogleich davon ?berzeug, dass Maurice in der &amp;quot;magischen Kiste&amp;quot; - also der Kamera - gefangen sitzt. Die Pinguine wissen es nat?rlich besser und beschlie?en, den ausgeb?xten Lemuren zur?ck in den Zoo zu holen. Doch New York City ist gro? - und so m?ssen die Pinguine ihr gesamtes detektivisches Talent aufbieten, um Maurice auf die Spur zu kommen...</mdValue>
+        <mdValue fieldName="EM Delivery -Asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Episode Name" dataType="string">DGRAYMAN_SEASON</mdValue>
+        <mdValue fieldName="Episode Number" dataType="string"></mdValue>
+        <mdValue fieldName="Force DTO export XML" dataType="bool">1</mdValue>
+        <mdValue fieldName="Force DTO proxy -Asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Genre" dataType="string"></mdValue>
+        <mdValue fieldName="Keywords" dataType="string">mpg nick penguins DE</mdValue>
+        <mdValue fieldName="License Start Date" dataType="string">2011-02-14</mdValue>
+        <mdValue fieldName="Local Entity" dataType="bool">1</mdValue>
+        <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+        <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+        <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+        <mdValue fieldName="Network" dataType="string">MTV</mdValue>
+        <mdValue fieldName="Owner" dataType="string"></mdValue>
+        <mdValue fieldName="Ratings_Override" dataType="string"></mdValue>
+        <mdValue fieldName="Rating System" dataType="string">de-tv/ab 6 Jahren</mdValue>
+        <mdValue fieldName="Release Year" dataType="string">2011-02-14</mdValue>
+        <mdValue fieldName="Season Description" dataType="string"></mdValue>
+        <mdValue fieldName="Season Language" dataType="string">DE</mdValue>
+        <mdValue fieldName="Season Number" dataType="string"></mdValue>
+        <mdValue fieldName="Season_Override" dataType="string"></mdValue>
+        <mdValue fieldName="Series Description" dataType="string"></mdValue>
+        <mdValue fieldName="Series Name" dataType="string"></mdValue>
+        <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+        <mdValue fieldName="Store and track versions of this asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Syndication Partner Delivery" dataType="string"></mdValue>
+        <mdValue fieldName="Title" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</mdValue>
+        <mdValue fieldName="TV Rating" dataType="string"></mdValue>
+      </metadata>
+    </entity>
+  </getMdReply>
+</FinalCutServer>

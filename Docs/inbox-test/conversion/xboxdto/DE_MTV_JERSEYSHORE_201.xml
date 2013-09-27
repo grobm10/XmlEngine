@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalCutServer>
+  <getMdReply>
+    <entity entityType="asset" entityId="/asset/24832">
+      <metadata>
+        <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+        <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+        <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 14:04:19</mdValue>
+        <mdValue fieldName="DTO Video Type" dataType="string">tv</mdValue>
+        <mdValue fieldName="Duration" dataType="timecode"></mdValue>
+        <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 07:10:42</mdValue>
+        <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 07:10:42</mdValue>
+        <mdValue fieldName="File Name" dataType="string">DE_MTV_JERSEYSHORE_201.mpg</mdValue>
+        <mdValue fieldName="Image Size" dataType="coords">640x360</mdValue>
+        <mdValue fieldName="Last Accessed" dataType="dateTime">2011-09-27 17:53:32</mdValue>
+        <mdValue fieldName="Last Modified" dataType="dateTime">2011-09-27 17:53:32</mdValue>
+        <mdValue fieldName="MD5Hash" dataType="string">a7ba322d158840c16ccbc8a05f0eaadc</mdValue>
+        <mdValue fieldName="MD5Hash_Recal" dataType="bool"></mdValue>
+        <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+        <mdValue fieldName="Size" dataType="int64">4120</mdValue>
+        <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+        <mdValue fieldName="Timecode Offset" dataType="timecode">00:00:00;00/(30000,1001)</mdValue>
+        <mdValue fieldName="Video Bit-rate" dataType="float">16.1</mdValue>
+        <mdValue fieldName="Video Codec" dataType="string">mpeg2_ves</mdValue>
+        <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+        <mdValue fieldName="Video Frame Rate" dataType="fraction">29.97</mdValue>
+        <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+        <mdValue fieldName="DTO Language Name" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Country Code" dataType="string">DE</mdValue>
+        <mdValue fieldName="Country" dataType="string">DE</mdValue>
+        <mdValue fieldName="Air Date" dataType="string">2011-05-02</mdValue>
+        <mdValue fieldName="Archive Status" dataType="string"></mdValue>
+        <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+        <mdValue fieldName="Asset ID" dataType="int64">24832</mdValue>
+        <mdValue fieldName="Author" dataType="string"></mdValue>
+        <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+        <mdValue fieldName="Copyright Holder" dataType="string">2010 MTV Networks. All rights reserved.</mdValue>
+        <mdValue fieldName="Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Asset XML Export (stage1)" dataType="bool"></mdValue>
+        <mdValue fieldName="DTO Container Position" dataType="string">12</mdValue>
+        <mdValue fieldName="DTO Episode ID" dataType="string">DE_MTV_JERSEYSHORE_201</mdValue>
+        <mdValue fieldName="DTO Episode Name" dataType="integer"></mdValue>
+        <mdValue fieldName="DTO Genre" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Long Description" dataType="string">Durch eine Erfindung von Kowalski wird der kleine Mort pl?tzlich superstark und gro?. Das nutzt King Julien nat?rlich f?r seine Zwecke aus und erpresst alle Zoobewohner auf die Herausgabe ihres Futters. </mdValue>
+        <mdValue fieldName="DTO Long Episode Description" dataType="string">Die Jersey</mdValue>
+        <mdValue fieldName="DTO Ratings" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Release Date" dataType="string">2011-05-02</mdValue>
+        <mdValue fieldName="DTO Sales Price" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Season ID" dataType="string">DE_MTV_JERSEYSHORE_SEASON_002_SEASON</mdValue>
+        <mdValue fieldName="DTO Season Name" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Series Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Series ID" dataType="string">DE_MTV_JERSEYSHORE_SEASON_002</mdValue>
+        <mdValue fieldName="DTO Short Description" dataType="string"></mdValue>
+        <mdValue fieldName="DTO Short Episode Description" dataType="string">Die Jersey</mdValue>
+        <mdValue fieldName="EM Delivery -Asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Episode Name" dataType="string">DGRAYMAN_SEASON</mdValue>
+        <mdValue fieldName="Episode Number" dataType="string"></mdValue>
+        <mdValue fieldName="Force DTO export XML" dataType="bool">1</mdValue>
+        <mdValue fieldName="Force DTO proxy -Asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Genre" dataType="string"></mdValue>
+        <mdValue fieldName="Keywords" dataType="string">Jersey shore season 2 </mdValue>
+        <mdValue fieldName="License Start Date" dataType="string">2011-05-02</mdValue>
+        <mdValue fieldName="Local Entity" dataType="bool">1</mdValue>
+        <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+        <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+        <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+        <mdValue fieldName="Network" dataType="string">MTV</mdValue>
+        <mdValue fieldName="Owner" dataType="string"></mdValue>
+        <mdValue fieldName="Ratings_Override" dataType="string"></mdValue>
+        <mdValue fieldName="Rating System" dataType="string">de-tv/ab 12 Jahren</mdValue>
+        <mdValue fieldName="Release Year" dataType="string">2011-05-02</mdValue>
+        <mdValue fieldName="Season Description" dataType="string"></mdValue>
+        <mdValue fieldName="Season Language" dataType="string">DE</mdValue>
+        <mdValue fieldName="Season Number" dataType="string"></mdValue>
+        <mdValue fieldName="Season_Override" dataType="string"></mdValue>
+        <mdValue fieldName="Series Description" dataType="string"></mdValue>
+        <mdValue fieldName="Series Name" dataType="string"></mdValue>
+        <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+        <mdValue fieldName="Store and track versions of this asset" dataType="bool"></mdValue>
+        <mdValue fieldName="Syndication Partner Delivery" dataType="string"></mdValue>
+        <mdValue fieldName="Title" dataType="string">DE_MTV_JERSEYSHORE_201</mdValue>
+        <mdValue fieldName="TV Rating" dataType="string"></mdValue>
+      </metadata>
+    </entity>
+  </getMdReply>
+</FinalCutServer>

@@ -1,0 +1,10 @@
+<!--
+   Projects folder structure DTD
+
+   $Revision: 0.1 $
+   $Date: 2012/06/01 12:00:00 $
+-->
+
+<!ELEMENT folders (folder+)>
+	<!ELEMENT folder (folder*)>
+	<!ATTLIST folder name CDATA #REQUIRED>

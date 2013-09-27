@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/24846">
+   <metadata>
+    <mdValue fieldName="Size" dataType="int64">2913246206</mdValue>
+    <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="DTO Language Name" dataType="string">DE</mdValue>
+    <mdValue fieldName="DTO Country Code" dataType="string">DE-DE</mdValue>
+    <mdValue fieldName="Country" dataType="string">DE</mdValue>
+    <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+    <mdValue fieldName="File Name" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101.mpg</mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 14:15:15+0</mdValue>
+    <mdValue fieldName="Store and track versions of this asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 08:51:16+0</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+    <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+    <mdValue fieldName="Force DTO export XML" dataType="bool">true</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+    <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+    <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">24846</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+    <mdValue fieldName="DTO Country Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Keywords" dataType="string">mpg nick penguins DE</mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-09-27 14:18:15+0</mdValue>
+    <mdValue fieldName="DTO Genre" dataType="string">Kinder</mdValue>
+    <mdValue fieldName="Owner" dataType="string"></mdValue>
+    <mdValue fieldName="Title" dataType="string">DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 08:51:16+0</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-09-27 14:18:15+0</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>

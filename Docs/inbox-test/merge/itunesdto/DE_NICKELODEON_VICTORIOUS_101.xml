@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<package version="tv4.3">
+  <language>de-DE</language>
+  <provider>Viacom</provider>
+  <video>
+    <vendor_offer_code>DE_NICKELODEON_VICTORIOUS_101</vendor_offer_code>
+    <copyright_cline>2010 MTV Networks. All rights reserved.</copyright_cline>
+    <preview starttime="273.0"/>
+    <release_date>2011-08-02</release_date>
+    <title>Die Neue</title>
+    <vendor_id>DE_NICKELODEON_VICTORIOUS_101</vendor_id>
+    <xid>Viacom:vendor_id:DE_NICKELODEON_VICTORIOUS_101</xid>
+    <assets>
+      <asset type="full">
+        <data_file role="source">
+          <size>36348174411</size>
+          <file_name>DE_NICKELODEON_VICTORIOUS_101.mov</file_name>
+          <checksum type="md5">BEE1F340A7C236632AA733C87408A47B</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <genres>
+      <genre>Children Series</genre>
+    </genres>
+    <products>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-08-02</sales_start_date>
+      </product>
+    </products>
+    <ratings>
+      <rating system="de-tv">ab 6 Jahren</rating>
+    </ratings>
+    <type>tv</type>
+    <network_name>MTV</network_name>
+    <episode_production_number>101</episode_production_number>
+    <series_name>VICTORIOUS</series_name>
+    <container_id>DE_NICK_VICTORIOUS_SEASON_001</container_id>
+    <container_position>1</container_position>
+    <description>Tori Vega erhält die Chance ihres Lebens: Da ihre Schwester krankheitsbedingt nicht auftreten kann, darf sie ersatzweise an einem großen Talentwettbewerb der bekannten Hollywood Arts High School teilnehmen. Im Vorfeld zum Abend der Abende trifft Tori allerdings auf allerlei ignorante Schüler der Hollywood Arts, die sie so sehr in die Zange nehmen, dass sie schon ans Aufgeben denkt. Doch als sie bemerkt, welche Möglichkeiten sich ihr bieten und als zudem die ersten freundlichen Menschen auf der Bildfläche erscheinen, ist plötzlich alles möglich.
+</description>
+  </video>
+</package>

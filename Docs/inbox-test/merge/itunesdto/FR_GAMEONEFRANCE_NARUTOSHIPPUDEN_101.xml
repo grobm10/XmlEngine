@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package>
+	<provider>Viacom</provider>
+	<video>
+		<video_type>TV</video_type>
+		<network_name>Game One France</network_name>
+		<unique_id_series>FR_GAMEONEFRANCE_NARUTOSHIPPUDEN</unique_id_series>
+		<unique_id_season>FR_GAMEONEFRANCE_NARUTOSHIPPUDEN_ARC1_PART1</unique_id_season>
+		<unique_id_episode>FR_GAMEONEFRANCE_NARUTOSHIPPUDEN_101</unique_id_episode>
+		<original_spoken_locale>ja-JA</original_spoken_locale>
+		<episode_production_number>101</episode_production_number>
+		<series_name>Naruto Shippuden</series_name>
+		<title>Retour au pays</title>
+		<container_position_episode>1</container_position_episode>
+		<season_name>Naruto Shippuden Arc 1, Partie 1</season_name>
+		<release_date>2008-09-05</release_date>
+		<original_release_year>2002</original_release_year>
+		<genres>
+			<genre>Animation</genre>
+		</genres>
+		<ratings>
+			<rating system="us-tv">PG</rating>
+		</ratings>
+		<copyright>2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All rights reserved</copyright>
+		<series_description>Naruto est de retour !! Après trois ans d'entraînement avec Jiraya, il retrouve ses camarades de l'Académie Ninja ainsi que ses professeurs à Konoha. Tous ont évolué, y compris les ninjas du village de Suna. Seul Kakashi, semble être resté fidèle à lui-même !</series_description>
+		<season_description>Naruto est de retour !! Après trois ans d'entraînement avec Jiraya, il retrouve ses camarades de l'Académie Ninja ainsi que ses professeurs à Konoha. Tous ont évolué, y compris les ninjas du village de Suna. Seul Kakashi, semble être resté fidèle à lui-même ! Hélas, les retrouvailles sont de courte durée. Gaara, devenu depuis peu Kazekage de son village est menacé par l'Akatsuki. Konoha envoie ses 2 meilleures équipes pour leurs prêter main forte : celle de Gai et Kakashi. Leur mission ? Sauver Gaara des griffes de l'Akatsuki, et les empêcher de délivrer le démon qui sommeille en lui. Malheureusement, prêts à tout pour mener à bien leur mission, l'Akatsuki envoie deux de ces éléments : Deidara et Sasori, qui parviennet à enlever le Kazekage... Naruto arrivera-t-il à sauver son ami ?</season_description>
+		<episode_short_description>Après plus de deux ans passés en entrainement, Naruto est de retour au village de Konoha, accompagné de son ami Jiraya.</episode_short_description>
+		<episode_long_description>Après plus de deux ans passés en entrainement, Naruto est de retour au village de Konoha, accompagné de son ami Jiraya.</episode_long_description>
+		<contributors>
+			<contributor></contributor>
+			<contributor></contributor>
+			<contributor></contributor>
+			<contributor></contributor>
+		</contributors>
+		<data_file>FR_GAMEONEFRANCE_NARUTOSHIPPUDEN_101.mpg</file_name>
+			<runtime>00:24:16</runtime>
+		</data_file>
+		<preview starttime="60"/>
+		<products>
+			<product>
+				<territory>FR</territory>
+				<sales_start_date>2011-06-20</sales_start_date>
+				<language>French</language>
+				<price_exception>Standard</price_exception>
+			</product>
+		</products>
+	</video>
+</package>

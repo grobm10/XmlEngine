@@ -1,0 +1,21 @@
+<!--
+   Projects folder structure DTD
+
+   $Revision: 0.1 $
+   $Date: 2012/06/01 12:00:00 $
+-->
+
+<!ELEMENT entities (entity*)>
+	<!ELEMENT entity (table, pk, fields)>
+	<!ATTLIST entity name CDATA #REQUIRED>
+		<!ELEMENT table EMPTY>
+		<!ATTLIST table name CDATA #REQUIRED 
+						autoincrement CDATA #REQUIRED>
+						
+		<!ELEMENT pk (field+)>
+		<!ELEMENT fields (field+)>
+			<!ELEMENT field EMPTY>
+			<!ATTLIST field name CDATA #REQUIRED
+							type CDATA #IMPLIED
+							required CDATA #IMPLIED
+							length CDATA #IMPLIED>

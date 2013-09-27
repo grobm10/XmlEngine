@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/24832">
+   <metadata>
+    <mdValue fieldName="Size" dataType="int64">5207170021</mdValue>
+    <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="DTO Language Name" dataType="string">DE</mdValue>
+    <mdValue fieldName="DTO Country Code" dataType="string">DE-DE</mdValue>
+    <mdValue fieldName="Country" dataType="string">DE</mdValue>
+    <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+    <mdValue fieldName="File Name" dataType="string">DE_MTV_JERSEYSHORE_201.mpg</mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 14:04:19+0</mdValue>
+    <mdValue fieldName="Store and track versions of this asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+    <mdValue fieldName="Video Bit-rate" dataType="float">16.1</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 07:10:42+0</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+    <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+    <mdValue fieldName="Image Size" dataType="coords">640x360</mdValue>
+    <mdValue fieldName="Video Frame Rate" dataType="fraction">29.97</mdValue>
+    <mdValue fieldName="Force DTO export XML" dataType="bool">true</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+    <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+    <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">24832</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Keywords" dataType="string">Jersey shore season 2 </mdValue>
+    <mdValue fieldName="Timecode Offset" dataType="timecode">00:00:00;00/(30000,1001)</mdValue>
+    <mdValue fieldName="Video Codec" dataType="string">mpeg2_ves</mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-09-27 14:12:55+0</mdValue>
+    <mdValue fieldName="DTO Genre" dataType="string">Reality TV</mdValue>
+    <mdValue fieldName="Owner" dataType="string"></mdValue>
+    <mdValue fieldName="Title" dataType="string">DE_MTV_JERSEYSHORE_201</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 07:10:42+0</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-09-27 14:12:55+0</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>

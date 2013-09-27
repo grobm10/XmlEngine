@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/25663">
+   <metadata>
+    <mdValue fieldName="Size" dataType="int64">5227095244</mdValue>
+    <mdValue fieldName="Country" dataType="string">FR</mdValue>
+    <mdValue fieldName="DTO Language Code" dataType="string">FR</mdValue>
+    <mdValue fieldName="DTO Language Name" dataType="string">FR</mdValue>
+    <mdValue fieldName="Location" dataType="string"></mdValue>
+    <mdValue fieldName="File Name" dataType="string">FR_MTVFRANCE_ADOUBLESHOTATLOVE_101.mpg</mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-02-12 15:12:34+0</mdValue>
+    <mdValue fieldName="Created By" dataType="string">admin</mdValue>
+    <mdValue fieldName="Video Bit-rate" dataType="float">14.9996</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2009-04-26 13:42:23+0</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">SONY DTO DRIVE</mdValue>
+    <mdValue fieldName="Image Size" dataType="coords">704x480</mdValue>
+    <mdValue fieldName="DTO Asset XML Export (stage1)" dataType="bool">true</mdValue>
+    <mdValue fieldName="Video Frame Rate" dataType="fraction">29.97</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_dto_asset</mdValue>
+    <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">25663</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Timecode Offset" dataType="timecode">00:00:00;00/(30000,1001)</mdValue>
+    <mdValue fieldName="Video Codec" dataType="string">mpeg2_ves</mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-03-01 18:13:27+0</mdValue>
+    <mdValue fieldName="Title" dataType="string">FR_MTVFRANCE_ADOUBLESHOTATLOVE_101</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2009-04-26 13:42:23+0</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-03-01 18:13:27+0</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+    <mdValue fieldName="MD5Hash_Recal" dataType="bool">true</mdValue>
+    <mdValue fieldName="MD5Hash" dataType="string">184a0000d0429f181052648ebc551792</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>

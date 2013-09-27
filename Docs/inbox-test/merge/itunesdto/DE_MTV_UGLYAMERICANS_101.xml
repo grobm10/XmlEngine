@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package version="tv4.3">
+  <language>de-DE</language>
+  <provider>Viacom</provider>
+  <video>
+    <vendor_offer_code>DE_MTV_UGLYAMERICANS_101</vendor_offer_code>
+    <copyright_cline>2010 MTV Networks. All rights reserved.</copyright_cline>
+    <preview starttime="273.0"/>
+    <release_date>2011-05-02</release_date>
+    <title>Pilot - Date in der Hölle</title>
+    <vendor_id>DE_MTV_UGLYAMERICANS_101</vendor_id>
+    <xid>Viacom:vendor_id:DE_MTV_UGLYAMERICANS_101</xid>
+    <assets>
+      <asset type="full">
+        <data_file role="source">
+          <size>4955423288</size>
+          <file_name>DE_MTV_UGLYAMERICANS_101.mpg</file_name>
+          <checksum type="md5">2a69bee5ffc85108b72fa6cc0d19aeb1</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <genres>
+      <genre>Reality TV</genre>
+    </genres>
+    <products>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-05-02</sales_start_date>
+      </product>
+    </products>
+    <ratings>
+      <rating system="de-tv">ab 12 Jahren</rating>
+    </ratings>
+    <type>tv</type>
+    <network_name>MTV</network_name>
+    <episode_production_number>101</episode_production_number>
+    <series_name>Ungly Americans - 1. Staffel</series_name>
+    <container_id>DE_MTV_UGLYAMERICANS_101</container_id>
+    <container_position>01</container_position>
+    <description>Mark Lilly arbeitet im Sozialdienst der Stadt New York und soll Immigranten bei ihrer Einbürgerung in die USA zur Seite stehen. Kein leichter Job, denn Mark muss sich auf wirklich sehr unterschiedliche Typen einstellen: unmögliche Mutationen jeder Art - sie alle wollen in das Land der unbegrenzten Möglichkeiten. Aber nicht nur die Arbeit stellt große Herausforderungen. Sein Mitbewohner Randall hat sich gerade zum Zombie gemacht, weil er damit eine Frau ins Bett kriegen wollte, die nur auf Untote steht. Und Mark selbst kann sich schon mal gar nicht so weit aus dem Fenster lehnen - er hat ein sehr wechselhaftes Verhältnis mit seiner Vorgesetzten, einer sehr dominanten Dämonin, deren Vater ein waschechter Höllenfürst ist. Das Konflikt-Chaos zwischen Bett und Büro ist damit vorprogrammiert. Ganz zu schweigen von den Problemen mit dem alten Magier Leonard, seinem Kollegen, und Lieutnant Grimes, der die Immigranten genauso gern schikaniert und fortschafft, wie Mark verzweifelt versucht, sie in das Hamsterrad der Arbeitswelt jener Stadt, die niemals schläft, einzufüttern ...</description>
+  </video>
+</package>

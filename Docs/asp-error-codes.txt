@@ -1,0 +1,26 @@
+Error Code		Message
+=========		=======
+
+5 				Insufficient permissions
+9 				Duplicate license
+10 				Rate exceeds cap imposed by license
+13 				Timeout establishing SSH connection (check SSH port and firewall)
+14 				Error establishing UDP connection (check UDP port and firewall)
+15 				Timeout establishing UDP connection (check UDP port and firewall)
+18 				Network failure (receiver can't receive UDP data)
+19 				Authentication failure
+29 				Unable to access license info
+30 				License expired
+38 				Operation not permitted by license
+40 				Data transfer stalled, timed out
+81 				Virtual link failed to start up
+
+16				Connection lost
+43				Cannot collect details about file or directory
+
+
+
+http://www.asperasoft.com/en/support/section_3/1_License_Problem_3
+http://www.asperasoft.com/en/support/section_3/2_Connect_Timeout_4
+http://www.asperasoft.com/en/support/section_3/3_UDP_Error_5
+http://www.asperasoft.com/en/support/section_3/5_Permission_Error_7

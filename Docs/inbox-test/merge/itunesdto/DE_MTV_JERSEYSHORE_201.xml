@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package version="tv4.3">
+  <language>de-DE</language>
+  <provider>Viacom</provider>
+  <video>
+    <vendor_offer_code>DE_MTV_JERSEYSHORE_201</vendor_offer_code>
+    <copyright_cline>2010 MTV Networks. All rights reserved.</copyright_cline>
+    <preview starttime="273.0"/>
+    <release_date>2011-05-02</release_date>
+    <title>Goin' South</title>
+    <vendor_id>DE_MTV_JERSEYSHORE_201</vendor_id>
+    <xid>Viacom:vendor_id:DE_MTV_JERSEYSHORE_201</xid>
+    <assets>
+      <asset type="full">
+        <data_file role="source">
+          <size>5207230045</size>
+          <file_name>DE_MTV_JERSEYSHORE_201.mpg</file_name>
+          <checksum type="md5">184a65f0d0429f181098419ebc551792</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <genres>
+      <genre>Reality TV</genre>
+    </genres>
+    <products>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-05-02</sales_start_date>
+      </product>
+    </products>
+    <ratings>
+      <rating system="de-tv">ab 12 Jahren</rating>
+    </ratings>
+    <type>tv</type>
+    <network_name>MTV</network_name>
+    <episode_production_number>DE_MTV_JERSEYSHORE_201</episode_production_number>
+    <series_name>Jersey Shore - 2. Staffel</series_name>
+    <container_id>DE_MTV_JERSEYSHORE_SEASON_002</container_id>
+    <container_position>1</container_position>
+    <description>Die 'Jersey Shore'-Crew macht sich zu Beginn der 2. Staffel auf nach Miami, dem neuen Domizil für diesen Sommer. Während The Situation, Pauly D, Snooki und JWOWW die Anreise per Auto wählen, fliegt der Rest per Flugzeug im sonnenreichen Florida ein. Vor Ort wartet allerdings vor allem ein Schock: Das ehemalige Hausmitglied Angelina ist ebenfalls mit von der Partie; Stress ist somit vorprogrammiert!</description>
+  </video>
+</package>

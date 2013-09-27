@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="tv3.3">
+  <provider>Viacom</provider>
+  <language>DE</language>
+  <video>
+    <type>tv</type>
+    <container_id>DE_COMEDY_SOUTHPARK_SEASON_013</container_id>
+    <container_position>1</container_position>
+    <vendor_id>DE_COMEDY_SOUTHPARK_1301</vendor_id>
+    <isan></isan>
+    <episode_production_number>1301</episode_production_number>
+    <title>Der Ring</title>
+    <short_description>Kenny lädt seine neue Freundin zu einem Konzert der Disney-Stars Jonas Brothers ein, um ihre Geilheitstriebe auszunutzen und von ihr einen Blow Job zu bekommen. Leider wird sein Vorhaben vereitelt, als nach dem Konzert Keuschheitsringe verteilt werden.</short_description>
+    <long_description>Kenny lädt seine neue Freundin zu einem Konzert der Disney-Stars Jonas Brothers ein, um ihre Geilheitstriebe auszunutzen und von ihr einen Blow Job zu bekommen. Leider wird sein Vorhaben vereitelt, als nach dem Konzert Keuschheitsringe verteilt werden. Cartman und die Jungs kommen bald hinter das Geheimnis dieser Ringe und lassen ein wichtiges Jonas Brothers Konzert platzen. Das gefällt Mickey Maus gar nicht, und sie fängt an Feuer zu spucken, um Rache zu nehmen.</long_description>
+    <network_name>MTV</network_name>
+    <release_date>2010-02-02</release_date>
+    <copyright_cline>2010 MTV Networks. All rights reserved. </copyright_cline>
+    <ratings>
+      <rating system="de-tv">ab 16 Jahren</rating>
+    </ratings>
+    <assets>
+      <asset type="full">
+        <data_file>
+          <file_name>DE_COMEDY_SOUTHPARK_1301.mpg</file_name>
+          <size>2437890393</size>
+          <checksum type="md5">BB8EFAC4F74D43137B9D065CCF358329</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <preview starttime="273" />
+    <products>
+      <product>
+        <territory>DE</territory>
+        <sales_start_date>2010-02-02</sales_start_date>
+      </product>
+    </products>
+  </video>
+</package>

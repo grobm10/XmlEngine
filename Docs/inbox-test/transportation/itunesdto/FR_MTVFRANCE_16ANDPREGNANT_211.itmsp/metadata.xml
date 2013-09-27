@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="tv4.0">
+  <provider>testtvprovider</provider>
+  <language>fr-FR</language>
+  <video>
+    <type>tv</type>
+    <container_id>testtvprovider</container_id>
+    <container_position>11</container_position>
+    <vendor_id>FR_MTVFRANCE_16ANDPREGNANT_211</vendor_id>
+    <episode_production_number>211</episode_production_number>
+    <original_spoken_locale>en-US</original_spoken_locale>
+    <title>La vie après l'accouchement</title>
+    <description>Dans cet épisode, présenté sous la forme d’un débat sur la grossesse chez les jeunes, les dix jeunes filles, suivies tout au long de la saison, reviennent sur les problèmes spécifiques qu’elles ont rencontrés et leurs challenges. Ce débat ouvert permet d’aborder beaucoup de sujets tabous et controversés traités au cours des épisodes de la saison 2 : le contrôle des naissance, l’adoption, la mono-parentalité, le mariage, les finances, l’obtention du diplôme de fin d’études et l’emploi.</description>
+    <network_name>MTV France</network_name>
+    <release_date>2010-07-18</release_date>
+    <copyright_cline>2010 Viacom International Inc.</copyright_cline>
+    <assets>
+      <asset type="full">
+        <data_file>
+          <locale name="fr-FR"/>
+          <file_name>FR_MTVFRANCE_16ANDPREGNANT_211.mpg</file_name>
+          <size>5077106223</size>
+          <checksum type="md5">13ad9916a03e8fdfdf0a1a113fb34d77</checksum>
+        </data_file>
+		<data_file role="notes">
+		   <file_name>FR_MTVFRANCE_16ANDPREGNANT_211.pdf</file_name>
+		   <size>195899</size>
+		   <checksum type="md5">3ca160b19e7b2a47e8255520c4931cfa</checksum>
+		</data_file>
+      </asset>
+    </assets>
+    <preview starttime="15.0"/>
+    <products>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-06-20</sales_start_date>
+      </product>
+    </products>
+  </video>
+</package>

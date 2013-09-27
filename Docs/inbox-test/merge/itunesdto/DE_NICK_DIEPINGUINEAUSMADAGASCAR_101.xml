@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package version="tv4.3">
+  <language>de-DE</language>
+  <provider>Viacom</provider>
+  <video>
+    <vendor_offer_code>DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</vendor_offer_code>
+    <copyright_cline>2010 MTV Networks. All rights reserved.</copyright_cline>
+    <preview starttime="273.0"/>
+    <release_date>2011-02-14</release_date>
+    <title>Popcorn-Panik / Blitz und Weg</title>
+    <vendor_id>DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</vendor_id>
+    <xid>Viacom:vendor_id:DE_NICK_DIEPINGUINEAUSMADAGASCAR_101</xid>
+    <assets>
+      <asset type="full">
+        <data_file role="source">
+          <size>3036965379</size>
+          <file_name>DE_NICK_DIEPINGUINEAUSMADAGASCAR_101.mpg</file_name>
+          <checksum type="md5">8601e388005666173c37fdeaf167e1c3</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <genres>
+      <genre>Kinder</genre>
+    </genres>
+    <products>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-02-14</sales_start_date>
+      </product>
+    </products>
+    <ratings>
+      <rating system="de-tv">ab 6 Jahren</rating>
+    </ratings>
+    <type>tv</type>
+    <network_name>MTV</network_name>
+    <episode_production_number>101</episode_production_number>
+    <series_name>Die Pinguine aus Madagascar</series_name>
+    <container_id>DE_NICK_DIEPINGUINEAUSMADAGASCAR_SEASON_001</container_id>
+    <container_position>1</container_position>
+    <description>Durch eine Verkettung unglücklicher Umstände verlieren die Pinguine den Zugang zu ihrer Lieblingsspeise: Popcorn! Natürlich scheuen Skipper und seine Truppe weder Kosten noch Mühen, um sich den schmackhaften Snack wieder zu beschaffen... / Lemur Maurice hat genug davon, ständig von seinem gierigen Boss, "König" Julien, bestohlen zu werden. Als die Lemuren von einem Touristen mit dem Blitzlicht seiner Kamera geblendet werden, nutzt Maurice kurz entschlossen die Gelegenheit und macht sich aus dem Staub. Der etwas naive Julien ist sogleich davon überzeug, dass Maurice in der "magischen Kiste" - also der Kamera - gefangen sitzt. Die Pinguine wissen es natürlich besser und beschließen, den ausgebüxten Lemuren zurück in den Zoo zu holen. Doch New York City ist groß - und so müssen die Pinguine ihr gesamtes detektivisches Talent aufbieten, um Maurice auf die Spur zu kommen...</description>
+  </video>
+</package>

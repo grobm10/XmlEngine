@@ -1,0 +1,490 @@
+<?xml version="1.0"?>
+<!DOCTYPE inserts SYSTEM "inserts.dtd">
+
+<inserts>
+	<entries table="bundles">
+		<entry>
+			<field name="id">1</field>
+			<field name="videoId">1</field>
+			<field name="languageCode">ENG</field>
+			<field name="regionCode">UK</field>
+			<field name="partnerId">1</field>
+			<field name="entityId">NULL</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="videoId">2</field>
+			<field name="languageCode">ENG</field>
+			<field name="regionCode">UK</field>
+			<field name="partnerId">1</field>
+			<field name="entityId">NULL</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="videoId">3</field>
+			<field name="languageCode">ENG</field>
+			<field name="regionCode">UK</field>
+			<field name="partnerId">1</field>
+			<field name="entityId">NULL</field>
+		</entry>
+	</entries>
+	<entries table="languages">
+		<entry>
+			<field name="code">DEU</field>
+			<field name="alt">DE</field>
+			<field name="name">GERMAN</field>
+		</entry>
+		<entry>
+			<field name="code">ENG</field>
+			<field name="alt">EN</field>
+			<field name="name">ENGLISH</field>
+		</entry>
+		<entry>
+			<field name="code">FRE</field>
+			<field name="alt">FR</field>
+			<field name="name">FRENCH</field>
+		</entry>
+		<entry>
+			<field name="code">ITA</field>
+			<field name="alt">IT</field>
+			<field name="name">ITALIAN</field>
+		</entry>
+		<entry>
+			<field name="code">JPN</field>
+			<field name="alt">JP</field>
+			<field name="name">JAPANESE</field>
+		</entry>
+		<entry>
+			<field name="code">SPA</field>
+			<field name="alt">ES</field>
+			<field name="name">SPANISH</field>
+		</entry>
+	</entries>
+	<entries table="logs">
+		<entry>
+			<field name="id">1</field>
+			<field name="processId">1</field>
+			<field name="description">"checksum" required for iTunes</field>
+			<field name="isError">0</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="processId">1</field>
+			<field name="description">"copyright_cline" required for iTunes</field>
+			<field name="isError">0</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="processId">3</field>
+			<field name="description">The given md5 value was wrong. Real value: 96bc60f1d5dd14342dc220cdad8dc7d9</field>
+			<field name="isError">1</field>
+		</entry>
+	</entries>
+	<entries table="metadata">
+		<entry>
+			<field name="id">1</field>
+			<field name="airDate">2011-08-02</field>
+			<field name="archiveStatus">NULL</field>
+			<field name="assetGUID">NULL</field>
+			<field name="assetID">NULL</field>
+			<field name="author">NULL</field>
+			<field name="category">NULL</field>
+			<field name="copyrightHolder">2011 Viacom Inc.</field>
+			<field name="description">NULL</field>
+			<field name="dTOAssetXMLExportstage1">0</field>
+			<field name="dTOContainerPosition">1</field>
+			<field name="dTOCopyrightHolder">2011 Viacom Inc.</field>
+			<field name="dTOEpisodeID">UK_NICKELODEON_WINXCLUB_101</field>
+			<field name="dTOEpisodeName">Winx Club</field>
+			<field name="dTOGenre">NULL</field>
+			<field name="dTOLongDescription">Embark on a fantasy adventure with Bloom, Stella, Flora, Musa, Tecna and Aisha, the Winx Club! a special group of friends with strength, beauty, and magic in their wings! In this feature-length special, join Bloom, Stella and the fairies of Alfea College as they learn to use their powers to battle evil and save the world! The Winx Club takes the girl power to new heights, with six great friends who not only do good, but they look great!</field>
+			<field name="dTOLongEpisodeDescription">Embark on a fantasy adventure with Bloom, Stella, Flora, Musa, Tecna and Aisha, the Winx Club! a special group of friends with strength, beauty, and magic in their wings! In this feature-length special, join Bloom, Stella and the fairies of Alfea College as they learn to use their powers to battle evil and save the world! The Winx Club takes the girl power to new heights, with six great friends who not only do good, but they look great!</field>
+			<field name="dTORatings">NULL</field>
+			<field name="dTOReleaseDate">2011-08-02</field>
+			<field name="dTOSalesPrice">NULL</field>
+			<field name="dTOSeasonID">UK_NICKELODEON_WINXCLUB_1</field>
+			<field name="dTOSeasonName">NULL</field>
+			<field name="dTOSeriesDescription">NULL</field>
+			<field name="dTOSeriesID">UK_NICKELODEON_WINXCLUB</field>
+			<field name="dTOShortEpisodeDescription">Embark on a fantasy adventure with Bloom, Stella, Flora, Musa, Tecna and Aisha, the Winx Club! a special group of friends with strength, beauty, and magic in their wings! In this feature-length special, join Bloom, Stella and the fairies of Alfea College as they learn to use their powers to battle evil and save the world! The Winx Club takes the girl power to new heights, with six great friends who not only do good, but they look great!</field>
+			<field name="dTOShortDescription">Embark on a fantasy adventure with Bloom, Stella, Flora, Musa, Tecna and Aisha, the Winx Club! a special group of friends with strength, beauty, and magic in their wings! In this feature-length special, join Bloom, Stella and the fairies of Alfea College as they learn to use their powers to battle evil and save the world! The Winx Club takes the girl power to new heights, with six great friends who not only do good, but they look great!</field>
+			<field name="eMDeliveryAsset">0</field>
+			<field name="episodeName">Winx Club</field>
+			<field name="episodeNumber">1</field>
+			<field name="forceDTOexportXML">0</field>
+			<field name="forceDTOproxyAsset">0</field>
+			<field name="genre">NULL</field>
+			<field name="keywords">NULL</field>
+			<field name="licenseStartDate">2011-08-02</field>
+			<field name="localEntity">0</field>
+			<field name="location">NULL</field>
+			<field name="mediaType">NULL</field>
+			<field name="metadataSet">NULL</field>
+			<field name="network">NICKELODEON</field>
+			<field name="owner">NULL</field>
+			<field name="ratingsOverride">NULL</field>
+			<field name="ratingSystem">NULL</field>
+			<field name="releaseYear">2011-08-02</field>
+			<field name="seasonDescription">NULL</field>
+			<field name="seasonLanguage">en-GB</field>
+			<field name="seasonName">NULL</field>
+			<field name="seasonNumber">1</field>
+			<field name="seasonOverride">NULL</field>
+			<field name="seriesDescription">NULL</field>
+			<field name="seriesName">WINXCLUB</field>
+			<field name="status">NULL</field>
+			<field name="storeandtrackversionsofthisasset">0</field>
+			<field name="syndicationPartnerDelivery">NULL</field>
+			<field name="title">NULL</field>
+			<field name="tVRating"></field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="airDate">2011-08-02</field>
+			<field name="archiveStatus">NULL</field>
+			<field name="assetGUID">NULL</field>
+			<field name="assetID">NULL</field>
+			<field name="author">NULL</field>
+			<field name="category">NULL</field>
+			<field name="copyrightHolder">2011 Viacom Inc.</field>
+			<field name="description">NULL</field>
+			<field name="dTOAssetXMLExportstage1">0</field>
+			<field name="dTOContainerPosition">2</field>
+			<field name="dTOCopyrightHolder">2011 Viacom Inc.</field>
+			<field name="dTOEpisodeID">UK_NICKELODEON_WINXCLUB_102</field>
+			<field name="dTOEpisodeName">Winx Club: Revenge of the Trix</field>
+			<field name="dTOGenre">NULL</field>
+			<field name="dTOLongDescription">Bloom, Stella, Flora, Musa and Tecna are back with more otherworldy adventures in Winx Club: Revenge of the Trix! Bloom?s home on her first school break, but the weird dreams she was having back at Alfea have come with her. And these dreams are trying to tell her something important! Good thing her fellow Winx have vowed to help Bloom learn what they mean. In the meantime, Bloom is learning about her home planet, her birth parents and her powers; Sky and Bloom are falling for each other, but Sky is supposed to marry Princess Diaspro; the evil Trix want something only Bloom has, so they follow her to Gardenia and will not leave without it! Will there be a showdown between Bloom and Diaspro? What will the other Winx find out about Bloom? Will the Trix finally get what they?re after? So hang on, because it?s all revealed here, in the magical, fantastical Winx Club: Revenge of the Trix!</field>
+			<field name="dTOLongEpisodeDescription">Bloom, Stella, Flora, Musa and Tecna are back with more otherworldy adventures in Winx Club: Revenge of the Trix! Bloom?s home on her first school break, but the weird dreams she was having back at Alfea have come with her. And these dreams are trying to tell her something important! Good thing her fellow Winx have vowed to help Bloom learn what they mean. In the meantime, Bloom is learning about her home planet, her birth parents and her powers; Sky and Bloom are falling for each other, but Sky is supposed to marry Princess Diaspro; the evil Trix want something only Bloom has, so they follow her to Gardenia and will not leave without it! Will there be a showdown between Bloom and Diaspro? What will the other Winx find out about Bloom? Will the Trix finally get what they?re after? So hang on, because it?s all revealed here, in the magical, fantastical Winx Club: Revenge of the Trix!</field>
+			<field name="dTORatings">NULL</field>
+			<field name="dTOReleaseDate">2011-08-02</field>
+			<field name="dTOSalesPrice">NULL</field>
+			<field name="dTOSeasonID">UK_NICKELODEON_WINXCLUB_1</field>
+			<field name="dTOSeasonName">NULL</field>
+			<field name="dTOSeriesDescription">NULL</field>
+			<field name="dTOSeriesID">UK_NICKELODEON_WINXCLUB</field>
+			<field name="dTOShortEpisodeDescription">Bloom, Stella, Flora, Musa and Tecna are back with more otherworldy adventures in Winx Club: Revenge of the Trix! Bloom?s home on her first school break, but the weird dreams she was having back at Alfea have come with her. And these dreams are trying to tell her something important! Good thing her fellow Winx have vowed to help Bloom learn what they mean. In the meantime, Bloom is learning about her home planet, her birth parents and her powers; Sky and Bloom are falling for each other, but Sky is supposed to marry Princess Diaspro; the evil Trix want something only Bloom has, so they follow her to Gardenia and will not leave without it! Will there be a showdown between Bloom and Diaspro? What will the other Winx find out about Bloom? Will the Trix finally get what they?re after? So hang on, because it?s all revealed here, in the magical, fantastical Winx Club: Revenge of the Trix!</field>
+			<field name="dTOShortDescription">Bloom, Stella, Flora, Musa and Tecna are back with more otherworldy adventures in Winx Club: Revenge of the Trix! Bloom?s home on her first school break, but the weird dreams she was having back at Alfea have come with her. And these dreams are trying to tell her something important! Good thing her fellow Winx have vowed to help Bloom learn what they mean. In the meantime, Bloom is learning about her home planet, her birth parents and her powers; Sky and Bloom are falling for each other, but Sky is supposed to marry Princess Diaspro; the evil Trix want something only Bloom has, so they follow her to Gardenia and will not leave without it! Will there be a showdown between Bloom and Diaspro? What will the other Winx find out about Bloom? Will the Trix finally get what they?re after? So hang on, because it?s all revealed here, in the magical, fantastical Winx Club: Revenge of the Trix!</field>
+			<field name="eMDeliveryAsset">0</field>
+			<field name="episodeName">Winx Club: Revenge of the Trix</field>
+			<field name="episodeNumber">2</field>
+			<field name="forceDTOexportXML">0</field>
+			<field name="forceDTOproxyAsset">0</field>
+			<field name="genre">NULL</field>
+			<field name="keywords">NULL</field>
+			<field name="licenseStartDate">2011-08-02</field>
+			<field name="localEntity">0</field>
+			<field name="location">NULL</field>
+			<field name="mediaType">NULL</field>
+			<field name="metadataSet">NULL</field>
+			<field name="network">NICKELODEON</field>
+			<field name="owner">NULL</field>
+			<field name="ratingsOverride">NULL</field>
+			<field name="ratingSystem">NULL</field>
+			<field name="releaseYear">2011-08-02</field>
+			<field name="seasonDescription">NULL</field>
+			<field name="seasonLanguage">en-GB</field>
+			<field name="seasonName">NULL</field>
+			<field name="seasonNumber">1</field>
+			<field name="seasonOverride">NULL</field>
+			<field name="seriesDescription">NULL</field>
+			<field name="seriesName">WINXCLUB</field>
+			<field name="status">NULL</field>
+			<field name="storeandtrackversionsofthisasset">0</field>
+			<field name="syndicationPartnerDelivery">NULL</field>
+			<field name="title">NULL</field>
+			<field name="tVRating"></field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="airDate">2011-09-19</field>
+			<field name="archiveStatus">NULL</field>
+			<field name="assetGUID">NULL</field>
+			<field name="assetID">NULL</field>
+			<field name="author">NULL</field>
+			<field name="category">NULL</field>
+			<field name="copyrightHolder">2011 Viacom Inc.</field>
+			<field name="description">NULL</field>
+			<field name="dTOAssetXMLExportstage1">0</field>
+			<field name="dTOContainerPosition">1</field>
+			<field name="dTOCopyrightHolder">2011 Viacom Inc.</field>
+			<field name="dTOEpisodeID">UK_NICKELODEON_WINXCLUB_201</field>
+			<field name="dTOEpisodeName">Winx Club: The Battle for Magix</field>
+			<field name="dTOGenre">NULL</field>
+			<field name="dTOLongDescription">It?s good versus evil and finding the power within in this action-packed third special, Winx Club: The Battle for Magix. Having taken Bloom?s Dragon Flame, the most powerful force there is, the Trix will stop at nothing to take over all of Magix! The evil witches being their quest by taking over their own school, Cloudtower. They then build an army of villains to help them take over Redfountain, the school of the Specialists. It?s battle ON as those not aligned with the Trix retreat to Alfea and join forces to save the Magix realm. As the conflict rages on, Bloom finds herself drawn to the spirit of Daphne, who reveals a secret Bloom never imagined! And thanks to Daphne, Bloom learns that the power of the dragon flame is still inside her. But can Bloom connect to the force and reawaken its spirit to help her defeat her evil enemies in time? Or will evil reign? All the action and the answers are ready to be revealed, here, in Winx Club: The Battle for Magix!</field>
+			<field name="dTOLongEpisodeDescription">It?s good versus evil and finding the power within in this action-packed third special, Winx Club: The Battle for Magix. Having taken Bloom?s Dragon Flame, the most powerful force there is, the Trix will stop at nothing to take over all of Magix! The evil witches being their quest by taking over their own school, Cloudtower. They then build an army of villains to help them take over Redfountain, the school of the Specialists. It?s battle ON as those not aligned with the Trix retreat to Alfea and join forces to save the Magix realm. As the conflict rages on, Bloom finds herself drawn to the spirit of Daphne, who reveals a secret Bloom never imagined! And thanks to Daphne, Bloom learns that the power of the dragon flame is still inside her. But can Bloom connect to the force and reawaken its spirit to help her defeat her evil enemies in time? Or will evil reign? All the action and the answers are ready to be revealed, here, in Winx Club: The Battle for Magix!</field>
+			<field name="dTORatings">NULL</field>
+			<field name="dTOReleaseDate">2011-08-02</field>
+			<field name="dTOSalesPrice">NULL</field>
+			<field name="dTOSeasonID">UK_NICKELODEON_WINXCLUB_2</field>
+			<field name="dTOSeasonName">NULL</field>
+			<field name="dTOSeriesDescription">NULL</field>
+			<field name="dTOSeriesID">UK_NICKELODEON_WINXCLUB</field>
+			<field name="dTOShortEpisodeDescription">It?s good versus evil and finding the power within in this action-packed third special, Winx Club: The Battle for Magix. Having taken Bloom?s Dragon Flame, the most powerful force there is, the Trix will stop at nothing to take over all of Magix! The evil witches being their quest by taking over their own school, Cloudtower. They then build an army of villains to help them take over Redfountain, the school of the Specialists. It?s battle ON as those not aligned with the Trix retreat to Alfea and join forces to save the Magix realm. As the conflict rages on, Bloom finds herself drawn to the spirit of Daphne, who reveals a secret Bloom never imagined! And thanks to Daphne, Bloom learns that the power of the dragon flame is still inside her. But can Bloom connect to the force and reawaken its spirit to help her defeat her evil enemies in time? Or will evil reign? All the action and the answers are ready to be revealed, here, in Winx Club: The Battle for Magix!</field>
+			<field name="dTOShortDescription">It?s good versus evil and finding the power within in this action-packed third special, Winx Club: The Battle for Magix. Having taken Bloom?s Dragon Flame, the most powerful force there is, the Trix will stop at nothing to take over all of Magix! The evil witches being their quest by taking over their own school, Cloudtower. They then build an army of villains to help them take over Redfountain, the school of the Specialists. It?s battle ON as those not aligned with the Trix retreat to Alfea and join forces to save the Magix realm. As the conflict rages on, Bloom finds herself drawn to the spirit of Daphne, who reveals a secret Bloom never imagined! And thanks to Daphne, Bloom learns that the power of the dragon flame is still inside her. But can Bloom connect to the force and reawaken its spirit to help her defeat her evil enemies in time? Or will evil reign? All the action and the answers are ready to be revealed, here, in Winx Club: The Battle for Magix!</field>
+			<field name="eMDeliveryAsset">0</field>
+			<field name="episodeName">Winx Club: The Battle for Magix</field>
+			<field name="episodeNumber">1</field>
+			<field name="forceDTOexportXML">0</field>
+			<field name="forceDTOproxyAsset">0</field>
+			<field name="genre">NULL</field>
+			<field name="keywords">NULL</field>
+			<field name="licenseStartDate">2011-09-19</field>
+			<field name="localEntity">0</field>
+			<field name="location">NULL</field>
+			<field name="mediaType">NULL</field>
+			<field name="metadataSet">NULL</field>
+			<field name="network">NICKELODEON</field>
+			<field name="owner">NULL</field>
+			<field name="ratingsOverride">NULL</field>
+			<field name="ratingSystem">NULL</field>
+			<field name="releaseYear">2011-08-02</field>
+			<field name="seasonDescription">NULL</field>
+			<field name="seasonLanguage">en-GB</field>
+			<field name="seasonName">NULL</field>
+			<field name="seasonNumber">2</field>
+			<field name="seasonOverride">NULL</field>
+			<field name="seriesDescription">NULL</field>
+			<field name="seriesName">WINXCLUB</field>
+			<field name="status">NULL</field>
+			<field name="storeandtrackversionsofthisasset">0</field>
+			<field name="syndicationPartnerDelivery">NULL</field>
+			<field name="title">NULL</field>
+			<field name="tVRating"></field>
+		</entry>
+	</entries>
+	<entries table="partners">
+		<entry>
+			<field name="id">1</field>
+			<field name="name">iTunes</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="name">Sony</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="name">Xbox</field>
+		</entry>
+		<entry>
+			<field name="id">4</field>
+			<field name="name">StarHub</field>
+		</entry>
+	</entries>
+	<entries table="processes">
+		<entry>
+			<field name="id">1</field>
+			<field name="typeId">3</field>
+			<field name="stateId">2</field>
+			<field name="processDate">2012-06-22 15:06:30</field>
+			<field name="bundleId">1</field>
+			<field name="issues">NULL</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="typeId">3</field>
+			<field name="stateId">1</field>
+			<field name="processDate">2012-06-22 15:06:27</field>
+			<field name="bundleId">NULL</field>
+			<field name="issues">NULL</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="typeId">3</field>
+			<field name="stateId">5</field>
+			<field name="processDate">2012-06-22 15:06:47</field>
+			<field name="bundleId">2</field>
+			<field name="issues">NULL</field>
+		</entry>
+	</entries>
+	<entries table="regions">
+		<entry>
+			<field name="code">AU</field>
+			<field name="country">AUSTRALIA</field>
+			<field name="languageCode">ENG</field>
+		</entry>
+		<entry>
+			<field name="code">CA</field>
+			<field name="country">CANADA</field>
+			<field name="languageCode">FRE</field>
+		</entry>
+		<entry>
+			<field name="code">DE</field>
+			<field name="country">GERMANY</field>
+			<field name="languageCode">DEU</field>
+		</entry>
+		<entry>
+			<field name="code">ES</field>
+			<field name="country">SPAIN</field>
+			<field name="languageCode">SPA</field>
+		</entry>
+		<entry>
+			<field name="code">FR</field>
+			<field name="country">FRANCE</field>
+			<field name="languageCode">FRE</field>
+		</entry>
+		<entry>
+			<field name="code">GB</field>
+			<field name="country">UNITED KINGDOM</field>
+			<field name="languageCode">ENG</field>
+		</entry>
+		<entry>
+			<field name="code">IT</field>
+			<field name="country">ITALY</field>
+			<field name="languageCode">ITA</field>
+		</entry>
+		<entry>
+			<field name="code">JP</field>
+			<field name="country">JAPAN</field>
+			<field name="languageCode">JPN</field>
+		</entry>
+		<entry>
+			<field name="code">MX</field>
+			<field name="country">MEXICO</field>
+			<field name="languageCode">SPA</field>
+		</entry>
+		<entry>
+			<field name="code">UK</field>
+			<field name="country">UNITED KINGDOM</field>
+			<field name="languageCode">ENG</field>
+		</entry>
+		<entry>
+			<field name="code">US</field>
+			<field name="country">USA</field>
+			<field name="languageCode">ENG</field>
+		</entry>
+	</entries>
+	<entries table="roles">
+		<entry>
+			<field name="id">1</field>
+			<field name="name">Admin</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="name">User</field>
+		</entry>
+	</entries>
+	<entries table="states">
+		<entry>
+			<field name="id">1</field>
+			<field name="name">NONSTARTED</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="name">STARTED</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="name">INCOMPLETE</field>
+		</entry>
+		<entry>
+			<field name="id">4</field>
+			<field name="name">SUCCESS</field>
+		</entry>
+		<entry>
+			<field name="id">5</field>
+			<field name="name">FAILED</field>
+		</entry>
+	</entries>
+	<entries table="types">
+		<entry>
+			<field name="id">1</field>
+			<field name="name">MERGE</field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="name">CONVERSION</field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="name">TRANSPORTATION</field>
+		</entry>
+	</entries>
+	<entries table="users">
+		<entry>
+			<field name="id">idmoadmin</field>
+			<field name="password">051970c8c8dfa6ca9821b289b14704ab</field>
+			<field name="name">IDMO Admin</field>
+			<field name="lastActionDate">2012-05-30 00:00:00</field>
+			<field name="roleId">1</field>
+			<field name="active">1</field>
+		</entry>
+	</entries>
+	<entries table="videos">
+		<entry>
+			<field name="id">1</field>
+			<field name="metadataId">1</field>
+			<field name="audioCodec">NULL</field>
+			<field name="createdBy">NULL</field>
+			<field name="creationDate">2012-06-22 15:25:42</field>
+			<field name="dTOVideoType">tv</field>
+			<field name="duration">NULL</field>
+			<field name="fileCreateDate">2012-07-03 13:07:32</field>
+			<field name="fileModificationDate">2012-06-22 11:06:01</field>
+			<field name="fileName">UK_NICKELODEON_WINXCLUB_101.mpg</field>
+			<field name="imageSize">NULL</field>
+			<field name="lastAccessed">2012-07-02 15:07:34</field>
+			<field name="lastModified">2012-06-22 15:25:42</field>
+			<field name="mD5Hash">6afc2bb87e05e81092ccd5d73bb2008c</field>
+			<field name="mD5HashRecal">0</field>
+			<field name="mimeType">NULL</field>
+			<field name="size">5705905513</field>
+			<field name="storedOn">NULL</field>
+			<field name="timecodeOffset">NULL</field>
+			<field name="videoBitrate">NULL</field>
+			<field name="videoCodec">NULL</field>
+			<field name="videoElements">NULL</field>
+			<field name="videoFrameRate"></field>
+		</entry>
+		<entry>
+			<field name="id">2</field>
+			<field name="metadataId">2</field>
+			<field name="audioCodec">NULL</field>
+			<field name="createdBy">NULL</field>
+			<field name="creationDate">2012-06-22 15:57:10</field>
+			<field name="dTOVideoType">tv</field>
+			<field name="duration">NULL</field>
+			<field name="fileCreateDate">2012-07-03 13:07:00</field>
+			<field name="fileModificationDate">2012-06-22 11:06:44</field>
+			<field name="fileName">UK_NICKELODEON_WINXCLUB_102.mpg</field>
+			<field name="imageSize">NULL</field>
+			<field name="lastAccessed">2012-07-02 15:07:09</field>
+			<field name="lastModified">2012-06-22 15:57:10</field>
+			<field name="mD5Hash">ff4e0dd77aa71deca160e3bb66178c78</field>
+			<field name="mD5HashRecal">0</field>
+			<field name="mimeType">NULL</field>
+			<field name="size">5719354361</field>
+			<field name="storedOn">NULL</field>
+			<field name="timecodeOffset">NULL</field>
+			<field name="videoBitrate">NULL</field>
+			<field name="videoCodec">NULL</field>
+			<field name="videoElements">NULL</field>
+			<field name="videoFrameRate"></field>
+		</entry>
+		<entry>
+			<field name="id">3</field>
+			<field name="metadataId">3</field>
+			<field name="audioCodec">NULL</field>
+			<field name="createdBy">NULL</field>
+			<field name="creationDate">2012-06-22 16:00:34</field>
+			<field name="dTOVideoType">tv</field>
+			<field name="duration">NULL</field>
+			<field name="fileCreateDate">2012-07-03 13:07:32</field>
+			<field name="fileModificationDate">2012-06-22 11:06:34</field>
+			<field name="fileName">UK_NICKELODEON_WINXCLUB_201.mpg</field>
+			<field name="imageSize">NULL</field>
+			<field name="lastAccessed">2012-07-02 15:07:45</field>
+			<field name="lastModified">2012-06-22 16:00:34</field>
+			<field name="mD5Hash">b4ff0ed2c4c4f8d623958deec5982ed7</field>
+			<field name="mD5HashRecal">0</field>
+			<field name="mimeType">NULL</field>
+			<field name="size">5721140444</field>
+			<field name="storedOn">NULL</field>
+			<field name="timecodeOffset">NULL</field>
+			<field name="videoBitrate">NULL</field>
+			<field name="videoCodec">NULL</field>
+			<field name="videoElements">NULL</field>
+			<field name="videoFrameRate"></field>
+		</entry>
+	</entries>
+</inserts>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/1234">
+   <metadata>
+    <!-- //Language properties -->
+    <mdValue fieldName="DTO Language Code" dataType="string">fr</mdValue>
+    <mdValue fieldName="DTO Language Name" dataType="string">French</mdValue>
+
+    <!-- //Region properties -->
+    <mdValue fieldName="DTO Country Code" dataType="string">FR</mdValue>
+    <mdValue fieldName="Country" dataType="string">France</mdValue>
+
+    <!-- //Video properties -->
+    <mdValue fieldName="Audio Codec" dataType="string">mpeg1_l2_aes</mdValue>
+	<mdValue fieldName="Created By" dataType="string">admin</mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-05-24 17:14:48+0</mdValue>
+    <mdValue fieldName="DTO Video Type" dataType="string">tv</mdValue>
+    <mdValue fieldName="Duration" dataType="timecode">00:09:49;23/(30000,1001)</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2011-06-07 13:27:15+0</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2011-06-07 13:27:15+0</mdValue>
+    <mdValue fieldName="File Name" dataType="string">dcTest1.mpeg</mdValue>
+    <mdValue fieldName="Image Size" dataType="coords">640x360</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-07-26 12:41:34+0</mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-07-26 12:41:34+0</mdValue>
+    <mdValue fieldName="MD5Hash" dataType="string">35iuhfjlhh212u34tedksfheh3</mdValue>
+    <mdValue fieldName="MD5Hash_Recal" dataType="bool">true</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/x-mpeg2-ps</mdValue>
+    <mdValue fieldName="Size" dataType="int64">4788604437</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">CoreLibrary</mdValue>
+    <mdValue fieldName="Video Bit-rate" dataType="float">25.0</mdValue>
+    <mdValue fieldName="Video Codec" dataType="string">mpeg2_ves</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+    <mdValue fieldName="Video Frame Rate" dataType="fraction">29.97</mdValue>
+    <mdValue fieldName="Timecode Offset" dataType="timecode">01:00:00;00/(30000,1001)</mdValue>
+
+    <!-- //Metadata properties -->
+	<mdValue fieldName="Air Date" dataType="string">2011-06-20</mdValue>
+    <mdValue fieldName="Archive Status" dataType="string">offline</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">1234</mdValue>
+    <mdValue fieldName="Author" dataType="string"></mdValue>
+    <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+    <mdValue fieldName="Copyright Holder" dataType="string">2006 &#xA9; KATSURA HOSHINO/SHUEISHA, TV TOKYO, DENTSU, TMS</mdValue>
+    <mdValue fieldName="Description" dataType="string">true</mdValue>
+    <mdValue fieldName="DTO Asset XML Export (stage1)" dataType="bool">true</mdValue>
+    <mdValue fieldName="DTO Container Position" dataType="string">1</mdValue>
+    <mdValue fieldName="DTO Episode ID" dataType="string">FR_GAMEONEFRANCE_DGRAYMAN_001</mdValue>
+    <mdValue fieldName="DTO Episode Name" dataType="string">Allen Walker et son golem</mdValue>
+    <mdValue fieldName="DTO Genre" dataType="string">Kids</mdValue>
+	<mdValue fieldName="DTO Long Description" dataType="string">Allen Walker et son golem, Timcanpy, viennent d'arriver &#xE0; Londres afin de se rendre aux quartiers g&#xE9;n&#xE9;raux de l'Ordre de l'Ombre...</mdValue>
+    <mdValue fieldName="DTO Long Episode Description" dataType="string">Allen Walker et son golem, Timcanpy, viennent d'arriver &#xE0; Londres afin de se rendre aux quartiers g&#xE9;n&#xE9;raux de l'Ordre de l'Ombre...</mdValue>
+    <mdValue fieldName="DTO Ratings" dataType="string">&lt;rating system="us-tv"&gt;PG&lt;/rating&gt;</mdValue>
+    <mdValue fieldName="DTO Release Date" dataType="string">2011-06-20</mdValue>
+    <mdValue fieldName="DTO Sales Price" dataType="string">Standard</mdValue>
+    <mdValue fieldName="DTO Season ID" dataType="string">FR_GAMEONEFRANCE_DGRAYMAN_SEASON_01</mdValue>
+    <mdValue fieldName="DTO Season Name" dataType="string">South Park Season 13</mdValue>
+    <mdValue fieldName="DTO Series Description" dataType="string">Vers la fin du XIX&#xE8;me si&#xE8;cle, une menace importante p&#xE8;se sur la plan&#xE8;te</mdValue>
+    <mdValue fieldName="DTO Series ID" dataType="string">FR_GAMEONEFRANCE_DGRAYMAN</mdValue>
+    <mdValue fieldName="DTO Short Description" dataType="string">Rikki et Vikki accueillent les filles et les garçons chez elles. Mais dans la soirée, un échange de baisers va conduire au drame.</mdValue>
+    <mdValue fieldName="DTO Short Episode Description" dataType="string">Allen Walker et son golem, Timcanpy, viennent d'arriver &#xE0; Londres afin de se rendre aux quartiers g&#xE9;n&#xE9;raux de l'Ordre de l'Ombre.</mdValue>
+    <mdValue fieldName="EM Delivery -Asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Episode Name " dataType="string">Farrah</mdValue>
+    <mdValue fieldName="Episode Number" dataType="integer">1</mdValue>
+    <mdValue fieldName="Force DTO export XML" dataType="bool">true</mdValue>
+    <mdValue fieldName="Force DTO proxy -Asset" dataType="bool">true</mdValue>
+    <mdValue fieldName="Genre" dataType="string">Kids</mdValue>
+    <mdValue fieldName="Keywords" dataType="string">Jersey shore season 2 </mdValue>
+    <mdValue fieldName="License Start Date" dataType="string">2010-02-02</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Location" dataType="string">/MTVNi_Source_Library</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_media</mdValue>
+    <mdValue fieldName="Network" dataType="string">GAME ONE FRANCE</mdValue>
+    <mdValue fieldName="Owner" dataType="string"></mdValue>
+    <mdValue fieldName="Ratings_Override" dataType="string">&lt;rating system="us-tv"&gt;PG&lt;/rating&gt;</mdValue>
+    <mdValue fieldName="Rating System" dataType="string">&lt;rating system="us-tv"&gt;PG&lt;/rating&gt;</mdValue>
+    <mdValue fieldName="Release Year" dataType="string">2011</mdValue>
+    <mdValue fieldName="Season Description" dataType="string">Vers la fin du XIX&#xE8;me si&#xE8;cle, une menace importante p&#xE8;se sur la plan&#xE8;te</mdValue>
+    <mdValue fieldName="Season Language" dataType="string">French</mdValue>
+    <mdValue fieldName="Season Number" dataType="string">1</mdValue>
+    <mdValue fieldName="Season_Override" dataType="string">Test</mdValue>
+	<mdValue fieldName="Series Description" dataType="string">Dans Rikki et Vikki célibs et bi (la suite de Tila célib et bi), 12 hétéros et 12 lesbiennes tenteront de s’attirer les faveurs de Rikki et Vikki, les jumelles bisexuelles qui rêvent de cocooning à deux... La tâche s’avère ardue car au début, aucun des candidats ne sait que Rikki a une sœur, ce qui permet à Vikki de se substituer ni vu ni connu à sa jumelle... La supercherie révélée, les valeureux prétendants apprennent qu’ils devront séduire Rikki mais aussi Vikki… Allez, deux pour le prix d’une !</mdValue>
+    <mdValue fieldName="Series Name" dataType="string">D.Gray-Man</mdValue>
+    <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+    <mdValue fieldName="Store and track versions of this asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Syndication Partner Delivery" dataType="string">sony</mdValue>
+    <mdValue fieldName="Title" dataType="string">dcTest1</mdValue>
+    <mdValue fieldName="TV Rating" dataType="string">&lt;rating system="us-tv"&gt;PG&lt;/rating&gt;</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>

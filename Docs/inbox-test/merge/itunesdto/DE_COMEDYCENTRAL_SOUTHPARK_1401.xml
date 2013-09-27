@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package version="tv4.3">
+  <language>de-DE</language>
+  <provider>Viacom</provider>
+  <video>
+    <vendor_offer_code>DE_COMEDYCENTRAL_SOUTHPARK_1401</vendor_offer_code>
+    <copyright_cline>2010 MTV Networks. All rights reserved.</copyright_cline>
+    <preview starttime="273.0"/>
+    <release_date>2011-05-20</release_date>
+    <title>Coon vs. Coon und Freunde</title>
+    <vendor_id>DE_COMEDYCENTRAL_SOUTHPARK_1401</vendor_id>
+    <xid>Viacom:vendor_id:DE_COMEDYCENTRAL_SOUTHPARK_1401</xid>
+    <assets>
+      <asset type="full">
+        <data_file role="source">
+          <size>29447526110</size>
+          <file_name>DE_COMEDYCENTRAL_SOUTHPARK_1401.mov</file_name>
+          <checksum type="md5">016931B090F3952BDBDF8F88CF1EC473</checksum>
+        </data_file>
+      </asset>
+    </assets>
+    <genres>
+      <genre>Comedy</genre>
+    </genres>
+    <products>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-05-20</sales_start_date>
+      </product>
+    </products>
+    <ratings>
+      <rating system="de-tv">ab 16 Jahren</rating>
+    </ratings>
+    <type>tv</type>
+    <network_name>MTV</network_name>
+    <episode_production_number>1401</episode_production_number>
+    <series_name>South Park</series_name>
+    <container_id>DE_COMEDY_SOUTHPARK_SEASON_014</container_id>
+    <container_position>01</container_position>
+    <description>Als die reichen erfolgreichen Männer auf der ganzen Welt plötzlich alle Sex mit vielen Frauen haben wollen, werden die besten Wissenschaftler zusammengerufen, um dieses Problem zu lösen. Als erste Sexsucht Tests gemacht werden, stellt sich heraus, dass einige Viertklässler in South Park Sex süchtig sind.</description>
+  </video>
+</package>

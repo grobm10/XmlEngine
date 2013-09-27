@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<FinalCutServer>
+ <getMdReply>
+  <entity entityType="asset" entityId="/asset/24820">
+   <metadata>
+    <mdValue fieldName="Size" dataType="int64">29773051919</mdValue>
+    <mdValue fieldName="Location" dataType="string">/DTO_SourceLib/DE</mdValue>
+    <mdValue fieldName="DTO Series Description" dataType="string">South Park steht für radikalen Zeichentrick-Witz und bitterböse Dialoge abseits aller Normen. Die vier Grundschüler Stan, Kyle, Kenny und Cartman sehen so niedlich aus wie die Heinzelmännchen, sind in Wahrheit aber vollkommen verkorkste Charaktere. Cartman beispielsweise feiert Halloween als Hitler. Stan reihert gern seine Freundin voll, Kyle kreuzt einen Elefanten mit einem Schwein und Kenny stirbt in beinahe jeder Folge einen blutigen Tod.</mdValue>
+    <mdValue fieldName="File Name" dataType="string">DE_COMEDY_SOUTHPARK_1301.mov</mdValue>
+    <mdValue fieldName="Air Date" dataType="string">2010-02-02</mdValue>
+    <mdValue fieldName="Release Year" dataType="string">2010-02-02</mdValue>
+    <mdValue fieldName="Copyright Holder" dataType="string">2010 MTV Networks. All rights reserved. </mdValue>
+    <mdValue fieldName="Creation Date" dataType="dateTime">2011-09-27 13:08:01+0</mdValue>
+    <mdValue fieldName="Store and track versions of this asset" dataType="bool">false</mdValue>
+    <mdValue fieldName="Duration" dataType="timecode">00:22:09:14/(24000,1001)</mdValue>
+    <mdValue fieldName="Season Description" dataType="string">South Park steht für radikalen Zeichentrick-Witz und bitterböse Dialoge abseits aller Normen. Die vier Grundschüler Stan, Kyle, Kenny und Cartman sehen so niedlich aus wie die Heinzelmännchen, sind in Wahrheit aber vollkommen verkorkste Charaktere. Cartman beispielsweise feiert Halloween als Hitler. Stan reihert gern seine Freundin voll, Kyle kreuzt einen Elefanten mit einem Schwein und Kenny stirbt in beinahe jeder Folge einen blutigen Tod.</mdValue>
+    <mdValue fieldName="Created By" dataType="string">markg</mdValue>
+    <mdValue fieldName="Video Bit-rate" dataType="float">178.95</mdValue>
+    <mdValue fieldName="File Modification Date" dataType="dateTime">2011-09-24 14:18:54+0</mdValue>
+    <mdValue fieldName="DTO Language Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="Media Type" dataType="string">video_clip</mdValue>
+    <mdValue fieldName="Stored On" dataType="string">FCS_DTO_Ingest</mdValue>
+    <mdValue fieldName="DTO Season ID" dataType="string">DE_COMEDY_SOUTHPARK_SEASON_013_SEASON</mdValue>
+    <mdValue fieldName="Country" dataType="string">DE</mdValue>
+    <mdValue fieldName="Status" dataType="string">Completed</mdValue>
+    <mdValue fieldName="Season Language" dataType="string">German</mdValue>
+    <mdValue fieldName="Series Name" dataType="string">South Park</mdValue>
+    <mdValue fieldName="Image Size" dataType="coords">1920x1080</mdValue>
+    <mdValue fieldName="DTO Short Episode Description" dataType="string"></mdValue>
+    <mdValue fieldName="DTO Epsiode ID" dataType="string">DE_COMEDY_SOUTHPARK_1301</mdValue>
+    <mdValue fieldName="Video Frame Rate" dataType="fraction">23.97</mdValue>
+    <mdValue fieldName="Force DTO export XML" dataType="bool">true</mdValue>
+    <mdValue fieldName="Network" dataType="string">MTV</mdValue>
+    <mdValue fieldName="Asset GUID" dataType="string"></mdValue>
+    <mdValue fieldName="Metadata Set" dataType="string">pa_asset_mtvni_asset</mdValue>
+    <mdValue fieldName="Category" dataType="string">DTO Episode</mdValue>
+    <mdValue fieldName="Force DTO proxy -Asset" dataType="bool">true</mdValue>
+    <mdValue fieldName="Archive Status" dataType="string">offline</mdValue>
+    <mdValue fieldName="Audio Codec" dataType="string">raw24int_be</mdValue>
+    <mdValue fieldName="Asset ID" dataType="int64">24820</mdValue>
+    <mdValue fieldName="Mime Type" dataType="string">video/quicktime</mdValue>
+    <mdValue fieldName="DTO Country Code" dataType="string">DE</mdValue>
+    <mdValue fieldName="Local Entity" dataType="bool">true</mdValue>
+    <mdValue fieldName="Keywords" dataType="string">SOUTHPARK DE</mdValue>
+    <mdValue fieldName="Timecode Offset" dataType="timecode">01:00:00:00/(24000,1001)</mdValue>
+    <mdValue fieldName="DTO Sales Price" dataType="string">Standard</mdValue>
+    <mdValue fieldName="Video Codec" dataType="string">apple_prores_422_hq</mdValue>
+    <mdValue fieldName="DTO Long Episode Description" dataType="string"></mdValue>
+    <mdValue fieldName="Last Modified" dataType="dateTime">2011-10-19 14:28:29+0</mdValue>
+    <mdValue fieldName="Season Number" dataType="string"></mdValue>
+    <mdValue fieldName="DTO Series ID" dataType="string">DE_COMEDY_SOUTHPARK_13</mdValue>
+    <mdValue fieldName="DTO Ratings" dataType="string">ab 16 Jahren</mdValue>
+    <mdValue fieldName="DTO Genre" dataType="string">Comedy</mdValue>
+    <mdValue fieldName="DTO Video Type" dataType="string">tv</mdValue>
+    <mdValue fieldName="License Start Date" dataType="string">2010-02-02</mdValue>
+    <mdValue fieldName="Owner" dataType="string"></mdValue>
+    <mdValue fieldName="Title" dataType="string">DE_COMEDY_SOUTHPARK_1301</mdValue>
+    <mdValue fieldName="Rating System" dataType="string">de-tv/ab 16 Jahren</mdValue>
+    <mdValue fieldName="DTO Release Date" dataType="string">2010-02-02</mdValue>
+    <mdValue fieldName="File Create Date" dataType="dateTime">2011-09-24 14:18:54+0</mdValue>
+    <mdValue fieldName="Last Accessed" dataType="dateTime">2011-10-19 14:28:29+0</mdValue>
+    <mdValue fieldName="DTO Season Name" dataType="string">South Park Season 13</mdValue>
+    <mdValue fieldName="Video Elements" dataType="string">video</mdValue>
+   </metadata>
+  </entity>
+ </getMdReply>
+</FinalCutServer>
